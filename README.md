@@ -1,6 +1,5 @@
 # Infinity-Store-Sales-Analytics
 
-# Infinity Sales Analytics Dashboard
 
 ---
 

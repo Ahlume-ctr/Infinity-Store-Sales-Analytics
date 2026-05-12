@@ -152,8 +152,7 @@ The dashboard converts analytical findings into actionable strategic insights th
 | Technology | Purpose |
 |---|---|
 | SQL | Data Cleaning & Transformation |
-| AI Full-Stack Engineering | Dashboard Development |
-| Lovable | Frontend Dashboard Engineering |
+| AI Full-Stack Engineering | Lovable | Dashboard Development |
 | Data Visualization | KPI & Trend Analytics |
 | GitHub | Version Control & Project Hosting |
 
@@ -258,11 +257,11 @@ The dashboard was designed with a clean and modern UI/UX approach focused on:
 # 📁 Repository Structure
 
 ```bash
-Infinity-Sales-Analytics-Dashboard/
+Infinity_Store-Sales-Analytics-Dashboard/
 │
-├── Infinity-Store-Sales-Analysis.sql
+├── 
 ├── README.md
-├── Dashboard Screenshot
+├── Infinity Store Sales sql workbook
 ```
 
 ---

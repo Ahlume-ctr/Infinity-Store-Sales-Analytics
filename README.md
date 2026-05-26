@@ -298,7 +298,7 @@ Continue leveraging analytics dashboards for real-time monitoring and strategic 
 
 ### Dashboard Preview
 
-https://lovable.dev/projects/ad4cfc3e-1a72-414f-bbff-1213e49e0f28
+https://retail-store-analytics.lovable.app/
 
 ---
 
